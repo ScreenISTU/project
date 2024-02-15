@@ -163,7 +163,7 @@ header.header-bg {
 	background: rgba(0, 0, 0, 0.5);
 }
 header.transparent {
-	background: #E3AFBC;
+	background: rgba(0, 0, 0, 0.5);
 }
 header:not(.smaller):not(.header-mobile).header-light.transparent {
 	background: rgba(255, 255, 255, 0.0);
