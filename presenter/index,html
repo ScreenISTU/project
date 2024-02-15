@@ -1,0 +1,17 @@
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/reveal.js" integrity="sha512-2hNT29g1D19n9CTY54193u4EzqLqEA+qiwqsxx+LwiCxaVhGC9zzeFlvDTmHqSCxaabTxON9BxBE4tJOaMZ+iQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/reset.min.css" integrity="sha512-Mjxkx+r7O/OLQeKeIBCQ2yspG1P5muhAtv/J+p2/aPnSenciZWm5Wlnt+NOUNA4SHbnBIE/R2ic0ZBiCXdQNUg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section>Slide 1</section>
+			<section>Slide 2</section>
+		</div>
+	</div>
+	<script>
+		Reveal.initialize({/* config */});
+	</script>
+</body>
+</html>
