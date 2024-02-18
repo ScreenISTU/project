@@ -806,7 +806,7 @@ header.header-light {
 }
 header.header-mobile {
 	height: 100%;
-	background:#F9ECEF;
+	background:#F9F8F7;
 }
 header.header-mobile #logo{
 	margin-top:-20px;
