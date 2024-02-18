@@ -260,7 +260,7 @@ header.smaller div#logo {
 	line-height: 48px;
 }
 header.smaller.scroll-light {
-	background: #fff;
+	background: #E4AFBB;
 }
 header:not(.header-light).smaller.scroll-light div#logo .logo {
 	display: none;
