@@ -218,7 +218,7 @@ header nav a {
 	transition: all 0.3s;
 }
 header nav a:hover {
-	color: #555;
+	color: #fff;
 }
 header.smaller #mainmenu a {
 	padding-top: 18px;
