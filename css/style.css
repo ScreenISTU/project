@@ -260,7 +260,7 @@ header.smaller div#logo {
 	line-height: 48px;
 }
 header.smaller.scroll-light {
-	background: #F7F6E1;
+	background: #FFFFFF;
 }
 header:not(.header-light).smaller.scroll-light div#logo .logo {
 	display: none;
@@ -806,7 +806,7 @@ header.header-light {
 }
 header.header-mobile {
 	height: 100%;
-	background:#F7F6E1;
+	background:#FFFFFF;
 }
 header.header-mobile #logo{
 	margin-top:-20px;
