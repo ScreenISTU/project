@@ -3,8 +3,8 @@ const carouselItems = document.querySelectorAll('.carousel-item');
  
 function goToSlide(index) {
   if (index < 0) {
-    index = carouselItems.length - 1;
-  } else if (index >= carouselItems.length) {
+    index = carouselItems.length - 2;
+  } else if (index >= carouselItems.length-1) {
     index = 0;
   }
   currentIndex = index;
