@@ -109,7 +109,11 @@ html {
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
-
+.responsive
+{
+	width:50%;
+	height: auto;
+}
 div.carousel {
   position: relative;
   width: 100%;
