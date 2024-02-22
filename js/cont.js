@@ -2,9 +2,9 @@ let currentIndex = 0;
 const carouselItems = document.querySelectorAll('.carousel-item');
  
 function goToSlide(index) {
-  if (index &lt 0) {
+  if (index < 0) {
     index = carouselItems.length - 1;
-  } else if (index &gt;= carouselItems.length) {
+  } else if (index >= carouselItems.length) {
     index = 0;
   }
   currentIndex = index;
