@@ -111,7 +111,8 @@ html {
 }
 .responsive
 {
-	width:50%;
+	width:100%;
+	max-width: 400px;
 	height: auto;
 }
 div.carousel {
